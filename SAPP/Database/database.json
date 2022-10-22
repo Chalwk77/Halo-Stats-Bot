@@ -1,0 +1,16 @@
+{
+  "Chalwk": {
+    "deaths": 1,
+    "joins": 2,
+    "kills": 5,
+    "score": 2,
+    "suicides": 1
+  },
+  "Wheezy": {
+    "deaths": 5,
+    "joins": 1,
+    "kills": 0,
+    "score": 0,
+    "suicides": 0
+  }
+}
